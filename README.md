@@ -25,10 +25,15 @@ Categorias:
 
 Categoria	Faixa de IMC
 Abaixo do peso	< 18.5
+
 Peso normal	18.5 – 24.9
+
 Sobrepeso	25 – 29.9
+
 Obesidade Grau I	30 – 34.9
+
 Obesidade Grau II	35 – 39.9
+
 Obesidade Grau III	≥ 40
 
 
