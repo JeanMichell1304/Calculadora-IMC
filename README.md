@@ -37,6 +37,7 @@ Obesidade Grau II	35 – 39.9
 Obesidade Grau III	≥ 40
 
 
+
 ⚡ Instalação:
 git clone https://github.com/seu-usuario/imc_flutter_app.git
 cd imc_flutter_app
@@ -50,6 +51,8 @@ Flutter & Dart
 Google Fonts
 
 Material Design
+
+
 
 🎨 Melhorias futuras
 
