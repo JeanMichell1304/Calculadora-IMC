@@ -14,19 +14,7 @@ App mobile para calcular o **IMC** com visual moderno e intuitivo. Mostra o valo
 
 ---
 
-## 🎬 Demonstração
 
-**Exemplo de cálculo:**
-
-![Tela principal do app](imagens/tela_principal.png)
-
-**Categorias com destaque:**
-
-![Categorias do IMC](imagens/categorias_imc.png)
-
-> Para GIF, substitua a imagem pelo arquivo `.gif`:
-```markdown
-![App em ação](imagens/demo_imc.gif)
 
 
 🧮 Como funciona
